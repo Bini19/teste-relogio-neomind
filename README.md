@@ -10,18 +10,18 @@ Premissas:
 
 1.Considere:
   
-  ● 00:00h possui um ângulo de 0o.
+  ● 00:00h possui um ângulo de 0°.
   
-  ● 00:15h possui um ângulo de 45o.
+  ● 00:15h possui um ângulo de 45°.
   
-  ● 00:30h possui um ângulo de 180o
+  ● 00:30h possui um ângulo de 180°.
 
 2. Assinatura do método:
   int retornaAnguloRelogio(int hora, int minuto);
 
-3. O desafio deve ser resolvido escrito em Java oulinguagem natural.
+3. O desafio deve ser resolvido escrito em Java ou linguagem natural.
 
-4. Caso tenhas alguma dúvida, tome a decisão que julgarser a melhor.
+4. Caso tenhas alguma dúvida, tome a decisão que julgar ser a melhor.
 
 5. Resposta:
      public int retornaAnguloRelogio(int hora, int minuto) {
